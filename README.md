@@ -6,3 +6,5 @@
 
 ### - 안드로이드: Serial Bluetooth Terminal 앱 사용
 ### - 아이폰: BluetoothLE 앱 사용
+
+### 참고. [https://electrocredible.com/raspberry-pi-pico-w-bluetooth-ble-micropython/](https://electrocredible.com/raspberry-pi-pico-w-bluetooth-ble-micropython/)
